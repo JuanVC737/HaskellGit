@@ -7,3 +7,5 @@ splittinSkulls xs = take 20 xs
 =======
 boustropheboi xs = [stringStuff n s, n <- [0..length xs], s <- xs]
 >>>>>>> master
+
+WHat is this??
